@@ -1,0 +1,45 @@
+body{
+    background-color: #DAA520;
+  }
+  
+  
+  h1{
+    text-align: center;
+  }
+  
+  h2{
+    text-align: center;
+    display: block;
+  }
+  
+  .photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+  }
+  
+  
+  li {
+    padding: 15px;
+    margin: 15px;
+    list-style: none;
+  }
+  
+  .form-group {
+    margin-bottom: 25px;
+  }
+  
+  .create-update-form {
+    padding: 25px;
+    margin: 25px;
+    border: 1px black solid;
+    text-align: center;
+  }
+  
+  .btn-primary {
+  border-radius: 15px;
+  }        
+  
+  
+   
